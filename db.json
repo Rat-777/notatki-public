@@ -1,5 +1,4 @@
-{
-  "notatki": [
+"notatki": [
     {
       "tytul": "pierwsza",
       "tresc": "tresc tresc tresc",
@@ -14,5 +13,4 @@
       "miesiac": 10,
       "dzien": 2
     }
-  ]
-}
+]
